@@ -19,7 +19,7 @@ public class Category {
     @Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
     private Instant createdAt;
 
-    @Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
+
     private Instant updatedAt;
 
     @ManyToMany(mappedBy = "categories")
