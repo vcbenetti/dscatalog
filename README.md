@@ -38,11 +38,11 @@ Linguagem: Java
 
 Framework: Spring Boot 3
 
-Segurança: Spring Security (com JWT)
+Segurança: Spring Security (com JWT) e OAuth 2
 
 Persistência: Spring Data JPA / Hibernate
 
-Banco de Dados: PostgreSQL (Recomendado) e H2 Database (para testes)
+Banco de Dados (Desenvolvimento/Teste): H2 Database / PostgreSQL
 
 Gerenciador de Dependências: Apache Maven
 
